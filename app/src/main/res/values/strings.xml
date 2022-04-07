@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My RecycleView</string>
+
+    <string-array name="programming_languages">
+        <item>C++</item>
+        <item>C#</item>
+        <item>Java</item>
+        <item>Javascript</item>
+        <item>Kotlin</item>
+        <item>Python</item>
+        <item>Ruby</item>
+        <item>Swift</item>
+        <item>Typescript</item>
+        <item>Visual studio</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>C++ is a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games and etc. C++ supports different ways of programming like procedural, object-oriented, functional. This makes C++ powerful as well as flexible.</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+
+    </string-array>
+</resources>
